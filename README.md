@@ -1,2 +1,2 @@
-# SE461Project
+# NRG
 
